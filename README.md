@@ -2,6 +2,10 @@
 
 把题目截图批量排版成“一页一题”的可打印做题本。
 
+Generate a printable one-question-per-page workbook PDF directly from question screenshots.
+
+![Preview](./assets/preview.png)
+
 这个项目适合这样的场景：
 
 - 平时把题目保存成图片
